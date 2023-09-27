@@ -1,0 +1,68 @@
+* {
+    box-sizing:border-box;
+    font-family: Gloock, Arial, Sans-Serif;
+}
+
+body {
+    background-image: url("https://i.postimg.cc/RhN52BRp/Purple-and-Peach-Rainbow-Waves-Desktop-Wallpaper.png");
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+h1 {
+    margin-top: 43px;
+    margin-bottom: 43px;
+    font-size: 4rem;
+}
+
+label{
+    font-size: 3rem;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1, h2, form, label {
+    text-align: center;
+  }
+
+  button{
+    display: block;
+    padding: 10px;
+    font-size: 1.5rem;
+    margin: 20px auto;
+    background: white;
+    border: none;
+
+  }
+  ul{
+    width: 100px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+  }
+  li{
+    text-align: center;
+    width: 94px;
+    height: 49px;
+    border: 1px solid black;
+  }
+  h2{
+    font-size: 6rem;
+    font-weight: bold;
+  }
+
