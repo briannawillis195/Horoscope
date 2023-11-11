@@ -5,4 +5,4 @@ What's your zodiac sign? Enter the Month that you were born along with the date,
 
 <b>Tech Used:</b> HTML5, CSS3 and Javascript
 
-<b>Lessons Learned</b>: Conditionals can be so powerful! I think the way I  went about creating the conditionals can be simplified, but at the time I was creating it, it seemed like the easiest way to explain how I saw the code in my head. I also loved that I had creative control with this project and although the design is simple, it adds a pit of my personality to the project.
+<b>Lessons Learned</b>: Conditionals can be so powerful! I think the way I  went about creating the conditionals can be simplified, but at the time I was creating it, it seemed like the easiest way to explain how I saw the code in my head. I also loved that I had creative control with this project and although the design is simple, it adds a bit of my personality to the project.
